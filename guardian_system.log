@@ -1,0 +1,123 @@
+[2026-07-25 01:05:57] [WARNING] [GuardianAI] CrewAI package not available yet. Falling back to internal agent workflow engine.
+[2026-07-25 01:05:57] [INFO] [GuardianAI] ============================================================
+[2026-07-25 01:05:57] [INFO] [GuardianAI]   Starting GuardianAI Autonomous Disaster Response System v1.0.0
+[2026-07-25 01:05:57] [INFO] [GuardianAI]   CrewAI Engine: Enabled | Groq Model: groq/llama-3.3-70b-versatile
+[2026-07-25 01:05:57] [INFO] [GuardianAI] ============================================================
+[2026-07-25 01:07:09] [WARNING] [GuardianAI] CrewAI package not available yet. Falling back to internal agent workflow engine.
+[2026-07-25 01:07:09] [INFO] [GuardianAI] ============================================================
+[2026-07-25 01:07:09] [INFO] [GuardianAI]   Starting GuardianAI Autonomous Disaster Response System v1.0.0
+[2026-07-25 01:07:09] [INFO] [GuardianAI]   CrewAI Engine: Enabled | Groq Model: groq/llama-3.3-70b-versatile
+[2026-07-25 01:07:09] [INFO] [GuardianAI] ============================================================
+[2026-07-25 01:07:18] [INFO] [GuardianAI] 🚀 Launching CrewAI Multi-Agent Disaster Pipeline (llama-3.3-70b-versatile)
+[2026-07-25 01:07:18] [INFO] [GuardianAI] 📥 TELEMETRY INGEST [esp32-guardian-01] | Temp: 32.5°C | MQ2: 1850 | MQ135: 320 | Water: 15 | Accel: NoneG | GPS: (20.2961, 85.8245)
+[2026-07-25 01:08:08] [WARNING] [GuardianAI] CrewAI package not available yet. Falling back to internal agent workflow engine.
+[2026-07-25 01:08:08] [INFO] [GuardianAI] ============================================================
+[2026-07-25 01:08:08] [INFO] [GuardianAI]   Starting GuardianAI Autonomous Disaster Response System v1.0.0
+[2026-07-25 01:08:08] [INFO] [GuardianAI]   CrewAI Engine: Enabled | Groq Model: groq/llama-3.3-70b-versatile
+[2026-07-25 01:08:08] [INFO] [GuardianAI] ============================================================
+[2026-07-25 01:08:19] [INFO] [GuardianAI] 🚀 Launching CrewAI Multi-Agent Disaster Pipeline (llama-3.3-70b-versatile)
+[2026-07-25 01:08:19] [INFO] [GuardianAI] 📥 TELEMETRY INGEST [esp32-guardian-01] | Temp: 32.5°C | MQ2: 1850 | MQ135: 320 | Water: 15 | Accel: NoneG | GPS: (20.2961, 85.8245)
+[2026-07-25 01:08:19] [INFO] [GuardianAI] ⚠️ FALSE ALARM SUPPRESSED -> Type: BUILDING_FIRE | Confidence: 95.0%
+[2026-07-25 01:08:19] [INFO] [GuardianAI] ✅ Full Disaster Response Pipeline Completed in 13.35ms
+[2026-07-25 01:09:54] [INFO] [GuardianAI] 🚀 Launching CrewAI Multi-Agent Disaster Pipeline (llama-3.3-70b-versatile)
+[2026-07-25 01:09:54] [INFO] [GuardianAI] 📥 TELEMETRY INGEST [esp32-guardian-01] | Temp: 68.5°C | MQ2: 3450 | MQ135: 1950 | Water: 10 | Accel: NoneG | GPS: (20.2961, 85.8245)
+[2026-07-25 01:09:54] [INFO] [GuardianAI] 🚨 DISASTER PREDICTION VERIFIED -> Type: BUILDING_FIRE | Confidence: 99.0%
+[2026-07-25 01:09:54] [INFO] [GuardianAI] ✅ Full Disaster Response Pipeline Completed in 8.91ms
+[2026-07-25 01:12:46] [WARNING] [GuardianAI] CrewAI package not available yet. Falling back to internal agent workflow engine.
+[2026-07-25 01:12:46] [INFO] [GuardianAI] ============================================================
+[2026-07-25 01:12:46] [INFO] [GuardianAI]   Starting GuardianAI Autonomous Disaster Response System v1.0.0
+[2026-07-25 01:12:46] [INFO] [GuardianAI]   CrewAI Engine: Enabled | Groq Model: llama-3.3-70b-versatile
+[2026-07-25 01:12:46] [INFO] [GuardianAI] ============================================================
+[2026-07-25 01:13:46] [WARNING] [GuardianAI] CrewAI package not available yet. Falling back to internal agent workflow engine.
+[2026-07-25 01:13:46] [INFO] [GuardianAI] ============================================================
+[2026-07-25 01:13:46] [INFO] [GuardianAI]   Starting GuardianAI Autonomous Disaster Response System v1.0.0
+[2026-07-25 01:13:46] [INFO] [GuardianAI]   CrewAI Engine: Enabled | Groq Model: llama-3.3-70b-versatile
+[2026-07-25 01:13:46] [INFO] [GuardianAI] ============================================================
+[2026-07-25 01:14:11] [INFO] [GuardianAI] [WebSocket] Client connected (1 active)
+[2026-07-25 01:15:46] [INFO] [GuardianAI] [WebSocket] Client disconnected (0 active)
+[2026-07-26 20:33:22] [WARNING] [GuardianAI] CrewAI package not available yet. Falling back to internal agent workflow engine.
+[2026-07-26 20:33:22] [INFO] [GuardianAI] ============================================================
+[2026-07-26 20:33:22] [INFO] [GuardianAI]   Starting GuardianAI Autonomous Disaster Response System v1.0.0
+[2026-07-26 20:33:22] [INFO] [GuardianAI]   CrewAI Engine: Enabled | Groq Model: llama-3.3-70b-versatile
+[2026-07-26 20:33:22] [INFO] [GuardianAI] ============================================================
+[2026-07-26 20:33:54] [INFO] [GuardianAI] [WebSocket] Client connected (1 active)
+[2026-07-26 20:34:29] [INFO] [GuardianAI] [WebSocket] Client disconnected (0 active)
+[2026-07-26 21:02:37] [WARNING] [GuardianAI] CrewAI package not available yet. Falling back to internal agent workflow engine.
+[2026-07-26 21:02:37] [INFO] [GuardianAI] ============================================================
+[2026-07-26 21:02:37] [INFO] [GuardianAI]   Starting GuardianAI Autonomous Disaster Response System v1.0.0
+[2026-07-26 21:02:37] [INFO] [GuardianAI]   CrewAI Engine: Enabled | Groq Model: llama-3.3-70b-versatile
+[2026-07-26 21:02:37] [INFO] [GuardianAI] ============================================================
+[2026-07-26 21:03:03] [INFO] [GuardianAI] [WebSocket] Client connected (1 active)
+[2026-07-26 21:10:55] [INFO] [GuardianAI] [WebSocket] Client disconnected (0 active)
+[2026-07-26 21:10:56] [INFO] [GuardianAI] [WebSocket] Client connected (1 active)
+[2026-07-26 21:39:43] [INFO] [GuardianAI] [WebSocket] Client disconnected (0 active)
+[2026-07-26 21:39:54] [INFO] [GuardianAI] [WebSocket] Client connected (1 active)
+[2026-07-26 21:40:14] [INFO] [GuardianAI] 🚀 Launching CrewAI Multi-Agent Disaster Pipeline (llama-3.3-70b-versatile)
+[2026-07-26 21:40:14] [INFO] [GuardianAI] 📥 TELEMETRY INGEST [esp32-guardian-01] | Temp: 68.5°C | MQ2: 3450 | MQ135: 1950 | Water: 10 | Accel: 1.33G | GPS: (20.2961, 85.8245)
+[2026-07-26 21:40:14] [INFO] [GuardianAI] 🚨 DISASTER PREDICTION VERIFIED -> Type: BUILDING_FIRE | Confidence: 99.0%
+[2026-07-26 21:40:14] [INFO] [GuardianAI] ✅ Full Disaster Response Pipeline Completed in 84.35ms
+[2026-07-26 21:40:33] [INFO] [GuardianAI] 🚀 Launching CrewAI Multi-Agent Disaster Pipeline (llama-3.3-70b-versatile)
+[2026-07-26 21:40:33] [INFO] [GuardianAI] 📥 TELEMETRY INGEST [esp32-guardian-01] | Temp: 32.5°C | MQ2: 180 | MQ135: 210 | Water: 20 | Accel: 0.99G | GPS: (20.2961, 85.8245)
+[2026-07-26 21:40:33] [INFO] [GuardianAI] ℹ️ NOMINAL DISASTER PREDICTION -> Status: Safe
+[2026-07-26 21:40:33] [INFO] [GuardianAI] ✅ Full Disaster Response Pipeline Completed in 7.96ms
+[2026-07-26 21:40:46] [INFO] [GuardianAI] 🚀 Launching CrewAI Multi-Agent Disaster Pipeline (llama-3.3-70b-versatile)
+[2026-07-26 21:40:46] [INFO] [GuardianAI] 📥 TELEMETRY INGEST [esp32-guardian-01] | Temp: 31.0°C | MQ2: 150 | MQ135: 180 | Water: 3120 | Accel: 0.99G | GPS: (20.2961, 85.8245)
+[2026-07-26 21:40:46] [INFO] [GuardianAI] 🚨 DISASTER PREDICTION VERIFIED -> Type: BUILDING_FIRE | Confidence: 65.0%
+[2026-07-26 21:40:46] [INFO] [GuardianAI] ✅ Full Disaster Response Pipeline Completed in 55.09ms
+[2026-07-26 21:40:59] [INFO] [GuardianAI] 🚀 Launching CrewAI Multi-Agent Disaster Pipeline (llama-3.3-70b-versatile)
+[2026-07-26 21:40:59] [INFO] [GuardianAI] 📥 TELEMETRY INGEST [esp32-guardian-01] | Temp: 32.5°C | MQ2: 180 | MQ135: 210 | Water: 20 | Accel: 0.99G | GPS: (20.2961, 85.8245)
+[2026-07-26 21:40:59] [INFO] [GuardianAI] ℹ️ NOMINAL DISASTER PREDICTION -> Status: Safe
+[2026-07-26 21:40:59] [INFO] [GuardianAI] ✅ Full Disaster Response Pipeline Completed in 2.13ms
+[2026-07-26 21:41:13] [INFO] [GuardianAI] 🚀 Launching CrewAI Multi-Agent Disaster Pipeline (llama-3.3-70b-versatile)
+[2026-07-26 21:41:13] [INFO] [GuardianAI] 📥 TELEMETRY INGEST [esp32-guardian-01] | Temp: 68.5°C | MQ2: 3450 | MQ135: 1950 | Water: 10 | Accel: 1.33G | GPS: (20.2961, 85.8245)
+[2026-07-26 21:41:13] [INFO] [GuardianAI] 🚨 DISASTER PREDICTION VERIFIED -> Type: BUILDING_FIRE | Confidence: 99.0%
+[2026-07-26 21:41:13] [INFO] [GuardianAI] ✅ Full Disaster Response Pipeline Completed in 84.47ms
+[2026-07-26 21:41:26] [INFO] [GuardianAI] 🚀 Launching CrewAI Multi-Agent Disaster Pipeline (llama-3.3-70b-versatile)
+[2026-07-26 21:41:26] [INFO] [GuardianAI] 📥 TELEMETRY INGEST [esp32-guardian-01] | Temp: 32.5°C | MQ2: 180 | MQ135: 210 | Water: 20 | Accel: 0.99G | GPS: (20.2961, 85.8245)
+[2026-07-26 21:41:26] [INFO] [GuardianAI] ℹ️ NOMINAL DISASTER PREDICTION -> Status: Safe
+[2026-07-26 21:41:26] [INFO] [GuardianAI] ✅ Full Disaster Response Pipeline Completed in 1.73ms
+[2026-07-26 21:41:41] [INFO] [GuardianAI] 🚀 Launching CrewAI Multi-Agent Disaster Pipeline (llama-3.3-70b-versatile)
+[2026-07-26 21:41:41] [INFO] [GuardianAI] 📥 TELEMETRY INGEST [esp32-guardian-01] | Temp: 32.5°C | MQ2: 1850 | MQ135: 320 | Water: 15 | Accel: 0.99G | GPS: (20.2961, 85.8245)
+[2026-07-26 21:41:41] [INFO] [GuardianAI] ⚠️ FALSE ALARM SUPPRESSED -> Type: BUILDING_FIRE | Confidence: 95.0%
+[2026-07-26 21:41:41] [INFO] [GuardianAI] ✅ Full Disaster Response Pipeline Completed in 61.33ms
+[2026-07-26 21:41:59] [INFO] [GuardianAI] 🚀 Launching CrewAI Multi-Agent Disaster Pipeline (llama-3.3-70b-versatile)
+[2026-07-26 21:41:59] [INFO] [GuardianAI] 📥 TELEMETRY INGEST [esp32-guardian-01] | Temp: 32.5°C | MQ2: 180 | MQ135: 210 | Water: 20 | Accel: 0.99G | GPS: (20.2961, 85.8245)
+[2026-07-26 21:41:59] [INFO] [GuardianAI] ℹ️ NOMINAL DISASTER PREDICTION -> Status: Safe
+[2026-07-26 21:41:59] [INFO] [GuardianAI] ✅ Full Disaster Response Pipeline Completed in 19.38ms
+[2026-07-26 21:43:53] [INFO] [GuardianAI] 🚀 Launching CrewAI Multi-Agent Disaster Pipeline (llama-3.3-70b-versatile)
+[2026-07-26 21:43:53] [INFO] [GuardianAI] 📥 TELEMETRY INGEST [esp32-guardian-01] | Temp: 68.5°C | MQ2: 3450 | MQ135: 1950 | Water: 10 | Accel: 1.33G | GPS: (20.2961, 85.8245)
+[2026-07-26 21:43:53] [INFO] [GuardianAI] 🚨 DISASTER PREDICTION VERIFIED -> Type: BUILDING_FIRE | Confidence: 99.0%
+[2026-07-26 21:43:53] [INFO] [GuardianAI] ✅ Full Disaster Response Pipeline Completed in 29.12ms
+[2026-07-26 21:44:59] [INFO] [GuardianAI] 🚀 Launching CrewAI Multi-Agent Disaster Pipeline (llama-3.3-70b-versatile)
+[2026-07-26 21:44:59] [INFO] [GuardianAI] 📥 TELEMETRY INGEST [esp32-guardian-01] | Temp: 32.5°C | MQ2: 180 | MQ135: 210 | Water: 20 | Accel: 0.99G | GPS: (20.2961, 85.8245)
+[2026-07-26 21:44:59] [INFO] [GuardianAI] ℹ️ NOMINAL DISASTER PREDICTION -> Status: Safe
+[2026-07-26 21:44:59] [INFO] [GuardianAI] ✅ Full Disaster Response Pipeline Completed in 8.30ms
+[2026-07-26 22:06:34] [INFO] [GuardianAI] 🚀 Launching CrewAI Multi-Agent Disaster Pipeline (llama-3.3-70b-versatile)
+[2026-07-26 22:06:34] [INFO] [GuardianAI] 📥 TELEMETRY INGEST [esp32-guardian-01] | Temp: 68.5°C | MQ2: 3450 | MQ135: 1950 | Water: 10 | Accel: 1.33G | GPS: (20.2961, 85.8245)
+[2026-07-26 22:06:34] [INFO] [GuardianAI] 🚨 DISASTER PREDICTION VERIFIED -> Type: BUILDING_FIRE | Confidence: 99.0%
+[2026-07-26 22:06:34] [INFO] [GuardianAI] ✅ Full Disaster Response Pipeline Completed in 19.61ms
+[2026-07-26 22:06:45] [INFO] [GuardianAI] 🚀 Launching CrewAI Multi-Agent Disaster Pipeline (llama-3.3-70b-versatile)
+[2026-07-26 22:06:45] [INFO] [GuardianAI] 📥 TELEMETRY INGEST [esp32-guardian-01] | Temp: 31.0°C | MQ2: 150 | MQ135: 180 | Water: 3120 | Accel: 0.99G | GPS: (20.2961, 85.8245)
+[2026-07-26 22:06:45] [INFO] [GuardianAI] 🚨 DISASTER PREDICTION VERIFIED -> Type: BUILDING_FIRE | Confidence: 65.0%
+[2026-07-26 22:06:45] [INFO] [GuardianAI] ✅ Full Disaster Response Pipeline Completed in 19.68ms
+[2026-07-26 22:07:06] [INFO] [GuardianAI] 🚀 Launching CrewAI Multi-Agent Disaster Pipeline (llama-3.3-70b-versatile)
+[2026-07-26 22:07:06] [INFO] [GuardianAI] 📥 TELEMETRY INGEST [esp32-guardian-01] | Temp: 68.5°C | MQ2: 3450 | MQ135: 1950 | Water: 10 | Accel: 1.33G | GPS: (20.2961, 85.8245)
+[2026-07-26 22:07:06] [INFO] [GuardianAI] 🚨 DISASTER PREDICTION VERIFIED -> Type: BUILDING_FIRE | Confidence: 99.0%
+[2026-07-26 22:07:06] [INFO] [GuardianAI] ✅ Full Disaster Response Pipeline Completed in 18.36ms
+[2026-07-26 22:07:16] [INFO] [GuardianAI] 🚀 Launching CrewAI Multi-Agent Disaster Pipeline (llama-3.3-70b-versatile)
+[2026-07-26 22:07:16] [INFO] [GuardianAI] 📥 TELEMETRY INGEST [esp32-guardian-01] | Temp: 32.5°C | MQ2: 1850 | MQ135: 320 | Water: 15 | Accel: 0.99G | GPS: (20.2961, 85.8245)
+[2026-07-26 22:07:16] [INFO] [GuardianAI] ⚠️ FALSE ALARM SUPPRESSED -> Type: BUILDING_FIRE | Confidence: 95.0%
+[2026-07-26 22:07:16] [INFO] [GuardianAI] ✅ Full Disaster Response Pipeline Completed in 297.59ms
+[2026-07-26 22:07:22] [INFO] [GuardianAI] 🚀 Launching CrewAI Multi-Agent Disaster Pipeline (llama-3.3-70b-versatile)
+[2026-07-26 22:07:22] [INFO] [GuardianAI] 📥 TELEMETRY INGEST [esp32-guardian-01] | Temp: 32.5°C | MQ2: 180 | MQ135: 210 | Water: 20 | Accel: 0.99G | GPS: (20.2961, 85.8245)
+[2026-07-26 22:07:22] [INFO] [GuardianAI] ℹ️ NOMINAL DISASTER PREDICTION -> Status: Safe
+[2026-07-26 22:07:22] [INFO] [GuardianAI] ✅ Full Disaster Response Pipeline Completed in 2.39ms
+[2026-07-26 22:07:23] [INFO] [GuardianAI] 🚀 Launching CrewAI Multi-Agent Disaster Pipeline (llama-3.3-70b-versatile)
+[2026-07-26 22:07:23] [INFO] [GuardianAI] 📥 TELEMETRY INGEST [esp32-guardian-01] | Temp: 32.5°C | MQ2: 180 | MQ135: 210 | Water: 20 | Accel: 0.99G | GPS: (20.2961, 85.8245)
+[2026-07-26 22:07:23] [INFO] [GuardianAI] ℹ️ NOMINAL DISASTER PREDICTION -> Status: Safe
+[2026-07-26 22:07:23] [INFO] [GuardianAI] ✅ Full Disaster Response Pipeline Completed in 2.82ms
+[2026-07-26 22:07:24] [INFO] [GuardianAI] 🚀 Launching CrewAI Multi-Agent Disaster Pipeline (llama-3.3-70b-versatile)
+[2026-07-26 22:07:24] [INFO] [GuardianAI] 📥 TELEMETRY INGEST [esp32-guardian-01] | Temp: 32.5°C | MQ2: 180 | MQ135: 210 | Water: 20 | Accel: 0.99G | GPS: (20.2961, 85.8245)
+[2026-07-26 22:07:24] [INFO] [GuardianAI] ℹ️ NOMINAL DISASTER PREDICTION -> Status: Safe
+[2026-07-26 22:07:24] [INFO] [GuardianAI] ✅ Full Disaster Response Pipeline Completed in 2.67ms
+[2026-07-26 23:18:35] [INFO] [GuardianAI] [WebSocket] Client disconnected (0 active)

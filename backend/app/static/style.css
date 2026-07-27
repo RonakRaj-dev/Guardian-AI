@@ -1,0 +1,73 @@
+/* GuardianAI Dashboard Cybernetic Theme Styles */
+
+@import url('https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css');
+
+body {
+    background-color: #050811;
+    font-family: 'Inter', sans-serif;
+    color: #e2e8f0;
+}
+
+.font-outfit {
+    font-family: 'Outfit', sans-serif;
+}
+
+/* Glassmorphism Card Style */
+.glass-card {
+    background: rgba(15, 23, 42, 0.75);
+    backdrop-filter: blur(12px);
+    -webkit-backdrop-filter: blur(12px);
+    box-shadow: 0 8px 32px 0 rgba(0, 0, 0, 0.37);
+}
+
+/* Animated Evacuation Dash Flow */
+@keyframes dash {
+    to {
+        stroke-dashoffset: -40;
+    }
+}
+
+.animate-evac-flow {
+    animation: dash 1.5s linear infinite;
+}
+
+/* Agent Status Transitions */
+.agent-card {
+    transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+.agent-card.active-thinking {
+    border-color: #6366f1;
+    background: rgba(99, 102, 241, 0.15);
+    box-shadow: 0 0 15px rgba(99, 102, 241, 0.25);
+}
+
+.agent-card.active-verified {
+    border-color: #10b981;
+    background: rgba(16, 185, 129, 0.12);
+}
+
+.agent-card.active-alert {
+    border-color: #f43f5e;
+    background: rgba(244, 63, 94, 0.15);
+    box-shadow: 0 0 15px rgba(244, 63, 94, 0.3);
+}
+
+/* Custom Scrollbars */
+::-webkit-scrollbar {
+    width: 6px;
+    height: 6px;
+}
+
+::-webkit-scrollbar-track {
+    background: #090d16;
+}
+
+::-webkit-scrollbar-thumb {
+    background: #334155;
+    border-radius: 3px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+    background: #475569;
+}
